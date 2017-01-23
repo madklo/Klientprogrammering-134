@@ -1,0 +1,131 @@
+body {
+	background-color:#151515;
+}
+
+#header {
+
+	z-index:1;
+	width: 100%;
+	height:90px;
+	clear:both;
+	text-align: 20%;
+	position:static;
+	display:inline-block;
+	font-size: 20px;
+	font-family:sans-serif;
+	background-image: url("http://tutorial9.s3.amazonaws.com/uploads/2008/05/finished-flare-andbanner.jpg");
+	
+}
+input[type=text] {
+    width: 500px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url("http://www.freeiconspng.com/uploads/search-icon-png-14.png");
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    background-size:22px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    width: 100%;
+}
+
+
+#bilde1 {
+	height:200px;
+}
+#bilde1:hover {
+	-moz-box-shadow: 0 0 10px #ccc;
+	-webkit-box-shadow: 0 0 10px #ccc;
+	box-shadow: 0 0 10px #ccc;
+}
+#bilde2 {
+	height:200px;
+}
+#bilde2:hover {
+	-moz-box-shadow: 0 0 10px #ccc;
+	-webkit-box-shadow: 0 0 10px #ccc;
+	box-shadow: 0 0 10px #ccc;
+}
+#bilde3 {
+	height:200px;
+}
+#bilde3:hover {
+	-moz-box-shadow: 0 0 10px #ccc;
+	-webkit-box-shadow: 0 0 10px #ccc;
+	box-shadow: 0 0 10px #ccc;
+}
+#bilde4 {
+	height:200px;
+}
+#bilde4:hover {
+	-moz-box-shadow: 0 0 10px #ccc;
+	-webkit-box-shadow: 0 0 10px #ccc;
+	box-shadow: 0 0 10px #ccc;
+}
+#nyefilmer {
+	text-align:center;
+	background-color:#424242;
+	width:60%;
+	height:500px;
+	text-align:20%;
+	margin-left:5%;
+	display: inline-block;
+
+
+}
+#venstre {
+	background-color:blue;
+	width:200px;
+	height:500px;
+	display: inline-block;
+	margin-right:60%;
+	margin-bottom:80%;
+	float:left;
+	background:#424242;
+	margin:1px;
+
+}
+#hoyre {
+	background-color:green;
+	width:200px;
+	height:500px;
+	margin-left:80%;
+	display: inline-block;
+	margin-bottom: 100%;
+	float:right;
+	background:#424242;
+	margin:1px	
+}
+
+#intouchables {
+	width:500px;
+}
+
+#info {
+	text-align:center;
+	background-color:#424242;
+	width:60%;
+	height:1000px;
+	text-align:20%;
+	margin-left:5%;
+	display: inline-block;
+
+}
+#tekst {
+	background-color:#151515;
+	width:60%;
+	margin-left:20%;
+	border-radius: 10%
+	
+}
+p {
+	color: white;
+}
+
